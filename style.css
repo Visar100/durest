@@ -6,5 +6,9 @@
 
 }
 .text-orange{
+    color: #f8a000;
 
+}
+.carousel-caption {
+    bottom: 50% !important;
 }
