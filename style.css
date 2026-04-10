@@ -1,20 +1,33 @@
-.bg-main{
+.bg-main {
     background-color: #191818 !important;
+}
+
+.text-main {
 
 }
-.text-main{
 
-}
-.text-orange{
+.text-orange {
     color: #f8a000;
-
 }
+
+.bg-orange{
+    color: #f8a000;
+}
+
+body {
+    height: 2000px;
+}
+
 .carousel-caption {
     bottom: 50% !important;
 }
 
-.hr{
-    border-top: 3px solid;
-    color: white;
-
+.hr {
+    border-top: 3px solid white;
+    opacity: 1;
+    width: 150px;
+    margin: 0 auto;
+}
+.icon{
+    width: 65px;
 }
